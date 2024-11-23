@@ -1,0 +1,17 @@
+.table-container{
+    display: grid;
+    width: 90vw !important;
+    align-items: center;
+    justify-content: center;
+    height: 65vh;
+    margin-top: 15vh;
+    overflow: auto;
+}
+
+.table{
+    width: 85vw !important;
+}
+
+.table-display-container{
+    justify-content: center;
+}

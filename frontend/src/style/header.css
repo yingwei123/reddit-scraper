@@ -1,0 +1,10 @@
+.nav-logo{
+    width: 10vh;
+}
+
+.grid-header{
+    height: 10vh;
+    background-color: #0362fc;
+    position: fixed;
+    z-index: 10;
+}
