@@ -73,3 +73,4 @@ The application will fetch the comments and display them in a table format.
 
 ### Note:
 Make sure to keep your Reddit API credentials secure and never commit them to version control.
+You can create your own Reddit API credentials [here](https://www.reddit.com/prefs/apps).
