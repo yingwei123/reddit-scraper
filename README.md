@@ -57,10 +57,7 @@ REDDIT_PASSWORD=your_reddit_password
    ```bash
    python main.py
    ```
-2. Start the React frontend server (from the frontend directory)
-   ```bash
-   npm start
-   ```
+
 The application will be available at http://localhost:8001.
 
 Note: The python server will serve the most recent built frontend static files. To modify frontend code, you will need to run `npm run build` again. If you're developing the frontend, you can run `npm run start` to run the frontend server at http://localhost:3000.
